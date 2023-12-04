@@ -82,7 +82,7 @@ Beginning with a comprehensive exploration of framing essentials and the anatomy
 
 To make the most of 'Beyond 0s and 1s: Stuffing Intricacies,' follow these steps:
 
-1. Clone the repository: ```git clone git@github.com:viren711/StuffingIntricacies.git```
+1. Clone the repository: ```git clone https://github.com/viren711/StuffingIntricacies```
 2. Navigate to the repository to explore individual implementations.
 3. Run the code snippets to better understand the functionality and intricacies.
 
